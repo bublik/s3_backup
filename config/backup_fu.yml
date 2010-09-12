@@ -1,0 +1,9 @@
+production:
+  app_name: home
+  s3_bucket: bublik-home
+  aws_access_key_id: '************'
+  aws_secret_access_key: '****************'
+  static_paths: '/home/wr/Pictures /home/wr/Documents'
+#  enable_nice: true
+#  nice_level: 15
+  ferbose: true
